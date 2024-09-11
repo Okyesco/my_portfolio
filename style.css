@@ -1,0 +1,23 @@
+.carousel-control-prev-icon, .carousel-control-next-icon {
+            background-color: black; 
+}
+
+       
+.parallax-section {
+    background-image: url('images/20220126_171150\ -\ Copy.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+
+
+.container.text-light {
+    padding: 50px;
+}
